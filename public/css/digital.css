@@ -74,5 +74,6 @@
 }
 
 body {
-    /*background-image: url('/images/bg2.png');*/
+    background-image: url('../images/headerLite4.png');
+    background-size: cover;
 }
