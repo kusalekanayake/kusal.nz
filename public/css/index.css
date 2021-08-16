@@ -1,0 +1,46 @@
+.container {
+    margin-top: 50px;
+}
+
+#nav {
+    margin: 13px 0 0 0;
+}
+
+#nav ul li {
+    display: inline;
+    margin: 0 20px 130px 0;
+}
+
+#nav a {
+    text-decoration: none;
+    color: #222;
+}
+
+#nav a:hover {
+    text-decoration: underline;
+}
+
+#headerImage img {
+    margin-bottom: 50px;
+    max-width: 96%;
+    height: auto;
+}
+
+#welcome {
+    margin-bottom: 20px;
+}
+
+.feature img {
+    margin-bottom: 15px;
+    max-width: 100%;
+    height: auto;
+}
+img {
+    border-radius: 4px;
+}
+h2 {
+    font-size: 2em;
+}
+body {
+    /*background-image: url('/images/bg2.png');*/
+}
