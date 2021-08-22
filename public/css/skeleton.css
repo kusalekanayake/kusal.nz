@@ -77,6 +77,7 @@
   .one-third.column               { width: 30.6666666667%; }
   .two-thirds.column              { width: 65.3333333333%; }
   .container .one-third.column    { width: 29.3%; }
+  .container .one-half.column    { width: 46%; }
   .container .two-thirds.column   { width: 620px; }
 
   .one-half.column                { width: 48%; }

@@ -42,7 +42,9 @@ h2 {
     font-size: 2em;
 }
 body {
-    /*background-image: url('/images/bg2.png');*/
+    background-image: url('../images/headerLite-min.jpg');
+    background-size: cover;
+    background-attachment: fixed;
 }
 
 /* Style inputs with type="text", select elements and textareas */
@@ -68,7 +70,8 @@ input[type=submit] {
 
 /* When moving the mouse over the submit button, add a darker green color */
 input[type=submit]:hover {
-    background-color: #45a049;
+    background-color: #555555;
+    color: white;
 }
 
 
