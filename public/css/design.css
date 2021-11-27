@@ -17,9 +17,6 @@
 }
 
 .headImg {
-    width: 50%;
-    padding-left: 25%;
-    max-width: 700px;
     align-self: center;
 }
 
@@ -32,7 +29,7 @@
 }
 
 #headerImage img {
-    margin-bottom: 10px;
+    margin-bottom: 50px;
     max-width: 96%;
     height: auto;
 }
