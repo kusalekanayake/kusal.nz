@@ -11,6 +11,11 @@
     margin: 0 20px 130px 0;
 }
 
+a{
+    text-decoration: none;
+    color: #222;}
+
+
 #nav a {
     text-decoration: none;
     color: #222;
@@ -73,5 +78,4 @@ input[type=submit]:hover {
     background-color: #555555;
     color: white;
 }
-
 
