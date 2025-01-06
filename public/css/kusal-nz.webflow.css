@@ -848,6 +848,12 @@ a {
 .image-15 {
   max-width: 40%;
   margin-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+.image-16 {
+  max-width: 80%;
+  margin-top: 1rem;
 }
 
 .image-15.bubble {
